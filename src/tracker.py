@@ -24,7 +24,6 @@ def main():
     if not striver_sheet:
         logging.error("Could not load striver_sheet.json")
         return
-
     # Load existing progress to get previously tracked slugs
     progress_data = load_json(PROGRESS_PATH) or {}
     existing_slugs = set(progress_data.get("solved_slugs", []))

@@ -53,6 +53,7 @@ def get_all_solved_questions(username: str) -> list[str]:
         # Deduplicate while preserving order
         unique_slugs = list(dict.fromkeys(slugs))
         logging.info(f"Fetched {len(unique_slugs)} recent unique accepted submissions for {username}")
+        print(unique_slugs)
         return unique_slugs
 
     except requests.exceptions.RequestException as e:
