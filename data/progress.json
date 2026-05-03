@@ -1,0 +1,40 @@
+{
+  "total": 18,
+  "completed": 0,
+  "percentage": 0.0,
+  "topics": {
+    "Arrays": {
+      "done": 0,
+      "total": 3
+    },
+    "Linked List": {
+      "done": 0,
+      "total": 3
+    },
+    "Trees": {
+      "done": 0,
+      "total": 2
+    },
+    "Graphs": {
+      "done": 0,
+      "total": 2
+    },
+    "DP": {
+      "done": 0,
+      "total": 2
+    },
+    "Recursion": {
+      "done": 0,
+      "total": 2
+    },
+    "Greedy": {
+      "done": 0,
+      "total": 2
+    },
+    "Binary Search": {
+      "done": 0,
+      "total": 2
+    }
+  },
+  "solved_slugs": []
+}
