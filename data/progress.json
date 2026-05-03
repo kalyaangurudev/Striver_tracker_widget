@@ -37,24 +37,24 @@
     }
   },
   "solved_slugs": [
-    "group-anagrams",
-    "fruit-into-baskets",
-    "top-k-frequent-elements",
-    "isomorphic-strings",
-    "combine-two-tables",
-    "search-in-rotated-sorted-array",
-    "maximum-average-subarray-i",
+    "best-time-to-buy-and-sell-stock",
     "merge-intervals",
-    "permutation-in-string",
-    "maximum-subarray",
+    "valid-anagram",
     "longest-substring-without-repeating-characters",
+    "fruit-into-baskets",
+    "group-anagrams",
+    "search-in-rotated-sorted-array",
+    "maximum-subarray",
     "majority-element",
-    "longest-repeating-character-replacement",
+    "combine-two-tables",
+    "word-pattern",
+    "two-sum",
+    "top-k-frequent-elements",
+    "maximum-average-subarray-i",
+    "isomorphic-strings",
     "minimum-size-subarray-sum",
     "intersection-of-two-arrays",
-    "best-time-to-buy-and-sell-stock",
-    "two-sum",
-    "valid-anagram",
-    "word-pattern"
+    "longest-repeating-character-replacement",
+    "permutation-in-string"
   ]
 }
