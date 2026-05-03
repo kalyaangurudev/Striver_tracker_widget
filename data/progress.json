@@ -1,10 +1,10 @@
 {
   "total": 18,
-  "completed": 0,
-  "percentage": 0.0,
+  "completed": 4,
+  "percentage": 22.2,
   "topics": {
     "Arrays": {
-      "done": 0,
+      "done": 3,
       "total": 3
     },
     "Linked List": {
@@ -32,9 +32,29 @@
       "total": 2
     },
     "Binary Search": {
-      "done": 0,
+      "done": 1,
       "total": 2
     }
   },
-  "solved_slugs": []
+  "solved_slugs": [
+    "group-anagrams",
+    "fruit-into-baskets",
+    "top-k-frequent-elements",
+    "isomorphic-strings",
+    "combine-two-tables",
+    "search-in-rotated-sorted-array",
+    "maximum-average-subarray-i",
+    "merge-intervals",
+    "permutation-in-string",
+    "maximum-subarray",
+    "longest-substring-without-repeating-characters",
+    "majority-element",
+    "longest-repeating-character-replacement",
+    "minimum-size-subarray-sum",
+    "intersection-of-two-arrays",
+    "best-time-to-buy-and-sell-stock",
+    "two-sum",
+    "valid-anagram",
+    "word-pattern"
+  ]
 }

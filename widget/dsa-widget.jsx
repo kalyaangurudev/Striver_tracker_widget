@@ -78,7 +78,7 @@ export const render = ({ output, error }) => {
 
       <div style={{ marginBottom: '20px' }}>
         <div style={{ width: '100%', backgroundColor: 'rgba(255, 255, 255, 0.1)', borderRadius: '4px', height: '8px', overflow: 'hidden' }}>
-          <div style={{ width: \`\${percentage}%\`, backgroundColor: '#4dabf7', height: '100%', transition: 'width 0.5s ease-in-out' }}></div>
+          <div style={{ width: `${percentage}%`, backgroundColor: '#4dabf7', height: '100%', transition: 'width 0.5s ease-in-out' }}></div>
         </div>
         <div style={{ fontSize: '12px', color: '#adb5bd', marginTop: '6px', textAlign: 'right' }}>
           {completed} / {total} Solved
